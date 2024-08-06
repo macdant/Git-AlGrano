@@ -1,0 +1,4 @@
+Pruebas Funcionales:
+Como su nombre lo indica son las que prueban la funcionalidad del sistema, teniendo en cuanta los requerimientos estos validan y verifican que el producto cumple con lo especificado y realice o haga lo que tenga que hacer. También se puede definir como la validación de datos y pruebas de comportamiento antes distintos escenarios.
+-	Verifica que el software cumpla con las especificaciones y funciones según lo esperado, prueba las funciones de entrada y de salida, la navegación del usuario.
+ Su objetivo es que cumpla con los requisitos(requerimiento) del usuario y que funcione correctamente en situaciones normales.
